@@ -1,0 +1,227 @@
+c:\users\dario\documents\visual studio 2012\Projects\Restoran.NET\Restoran.NET\bin\Debug\Restoran.NET.exe.config
+c:\users\dario\documents\visual studio 2012\Projects\Restoran.NET\Restoran.NET\bin\Debug\Restoran.NET.exe
+c:\users\dario\documents\visual studio 2012\Projects\Restoran.NET\Restoran.NET\bin\Debug\Restoran.NET.pdb
+c:\users\dario\documents\visual studio 2012\Projects\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.csprojResolveAssemblyReference.cache
+c:\users\dario\documents\visual studio 2012\Projects\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.Properties.Resources.resources
+c:\users\dario\documents\visual studio 2012\Projects\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.csproj.GenerateResource.Cache
+c:\users\dario\documents\visual studio 2012\Projects\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.exe
+c:\users\dario\documents\visual studio 2012\Projects\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.pdb
+c:\users\dario\documents\visual studio 2012\Projects\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.GlavnaForma.resources
+c:\users\dario\documents\visual studio 2012\Projects\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.Login.resources
+C:\Users\Dario\Documents\Visual Studio 2012\Projects\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.OdabirPica.resources
+D:\Desktop\Restoran.NET\Restoran.NET\Restoran.NET\bin\Debug\Restoran.NET.exe.config
+D:\Desktop\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.exe
+D:\Desktop\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.pdb
+C:\Users\Dario\Desktop\Restoran.NET\Restoran.NET\Restoran.NET\Restoran.NET\bin\Debug\Restoran.NET.exe.config
+C:\Users\Dario\Desktop\Restoran.NET\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.exe
+C:\Users\Dario\Desktop\Restoran.NET\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.pdb
+C:\Users\Dario\Desktop\Restoran.NET\Restoran.NET\Restoran.NET\Restoran.NET\bin\Debug\Restoran.NET.exe
+C:\Users\Dario\Desktop\Restoran.NET\Restoran.NET\Restoran.NET\Restoran.NET\bin\Debug\Restoran.NET.pdb
+C:\Users\Dario\Desktop\Restoran.NET\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.csprojResolveAssemblyReference.cache
+C:\Users\Dario\Desktop\Restoran.NET\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.GlavnaForma.resources
+C:\Users\Dario\Desktop\Restoran.NET\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.Login.resources
+C:\Users\Dario\Desktop\Restoran.NET\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.OdabirPica.resources
+C:\Users\Dario\Desktop\Restoran.NET\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.Properties.Resources.resources
+C:\Users\Dario\Desktop\Restoran.NET\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.csproj.GenerateResource.Cache
+D:\Desktop\Restoran.NET\Restoran.NET\bin\Debug\Restoran.NET.exe.config
+D:\Desktop\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.exe
+D:\Desktop\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.pdb
+D:\Desktop\Restoran.NET\Restoran.NET\bin\Debug\Restoran.NET.exe
+D:\Desktop\Restoran.NET\Restoran.NET\bin\Debug\Restoran.NET.pdb
+D:\Desktop\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.csprojResolveAssemblyReference.cache
+D:\Desktop\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.GlavnaForma.resources
+D:\Desktop\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.Login.resources
+D:\Desktop\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.OdabirJela.resources
+D:\Desktop\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.OdabirPica.resources
+D:\Desktop\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.Properties.Resources.resources
+D:\Desktop\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.csproj.GenerateResource.Cache
+D:\Desktop\Restoran.NET\Restoran.NET\Restoran.NET\bin\Debug\Restoran.NET.exe
+D:\Desktop\Restoran.NET\Restoran.NET\Restoran.NET\bin\Debug\Restoran.NET.pdb
+D:\Desktop\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.csprojResolveAssemblyReference.cache
+D:\Desktop\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.GlavnaForma.resources
+D:\Desktop\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.Login.resources
+D:\Desktop\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.Properties.Resources.resources
+D:\Desktop\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.csproj.GenerateResource.Cache
+D:\Desktop\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.frmArtikli.resources
+D:\Restoran.NET\Restoran.NET\Restoran.NET\bin\Debug\Restoran.NET.exe.config
+D:\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.exe
+D:\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.pdb
+D:\Restoran.NET\Restoran.NET\Restoran.NET\bin\Debug\Restoran.NET.exe
+D:\Restoran.NET\Restoran.NET\Restoran.NET\bin\Debug\Restoran.NET.pdb
+D:\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.frmArtikli.resources
+D:\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.GlavnaForma.resources
+D:\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.Login.resources
+D:\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.Properties.Resources.resources
+D:\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.csproj.GenerateResource.Cache
+D:\Desktop\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.frmDodavanjeArtikla.resources
+C:\Users\Kokotec\Desktop\Restoran.NET\Restoran.NET\Restoran.NET\bin\Debug\Restoran.NET.exe.config
+C:\Users\Kokotec\Desktop\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.exe
+C:\Users\Kokotec\Desktop\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.pdb
+C:\Users\Kokotec\Desktop\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.frmArtikli.resources
+C:\Users\Kokotec\Desktop\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.frmDodavanjeArtikla.resources
+C:\Users\Kokotec\Desktop\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.GlavnaForma.resources
+C:\Users\Kokotec\Desktop\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.Login.resources
+C:\Users\Kokotec\Desktop\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.Properties.Resources.resources
+C:\Users\Kokotec\Desktop\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.csproj.GenerateResource.Cache
+C:\Users\Kokotec\Desktop\Restoran.NET\Restoran.NET\Restoran.NET\bin\Debug\Restoran.NET.exe
+C:\Users\Kokotec\Desktop\Restoran.NET\Restoran.NET\Restoran.NET\bin\Debug\Restoran.NET.pdb
+C:\Users\Kokotec\Desktop\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.GlavniDioRacuna.resources
+C:\Users\Kokotec\Desktop\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.StavkeRacuna.resources
+C:\Users\Kokotec\Desktop\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.PregledRacuna.resources
+C:\Users\Kokotec\Desktop\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.Narudzbe.resources
+C:\Users\Kokotec\Desktop\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.csprojResolveAssemblyReference.cache
+C:\Restoran.NET\Restoran.NET\Restoran.NET\bin\Debug\Restoran.NET.exe.config
+C:\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.exe
+C:\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.pdb
+C:\Restoran.NET\Restoran.NET\Restoran.NET\bin\Debug\Restoran.NET.exe
+C:\Restoran.NET\Restoran.NET\Restoran.NET\bin\Debug\Restoran.NET.pdb
+C:\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.csprojResolveAssemblyReference.cache
+C:\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.frmArtikli.resources
+C:\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.frmDodavanjeArtikla.resources
+C:\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.GlavnaForma.resources
+C:\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.GlavniDioRacuna.resources
+C:\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.Login.resources
+C:\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.Narudzbe.resources
+C:\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.PregledRacuna.resources
+C:\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.Properties.Resources.resources
+C:\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.StavkeRacuna.resources
+C:\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.csproj.GenerateResource.Cache
+D:\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.frmDodavanjeArtikla.resources
+D:\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.GlavniDioRacuna.resources
+D:\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.Narudzbe.resources
+D:\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.PregledRacuna.resources
+D:\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.StavkeRacuna.resources
+D:\Desktop\Restoran.NET\Restoran.NET\Restoran.NET\Restoran.NET\bin\Debug\Restoran.NET.exe.config
+D:\Desktop\Restoran.NET\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.exe
+D:\Desktop\Restoran.NET\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.pdb
+D:\Desktop\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.GlavniDioRacuna.resources
+D:\Desktop\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.Narudzbe.resources
+D:\Desktop\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.PregledRacuna.resources
+D:\Desktop\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.StavkeRacuna.resources
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET\Restoran.NET\Restoran.NET\bin\Debug\Restoran.NET.exe.config
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.exe
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.pdb
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET\Restoran.NET\Restoran.NET\bin\Debug\Restoran.NET.exe
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET\Restoran.NET\Restoran.NET\bin\Debug\Restoran.NET.pdb
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.csprojResolveAssemblyReference.cache
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.frmArtikli.resources
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.frmDodavanjeArtikla.resources
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.GlavnaForma.resources
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.GlavniDioRacuna.resources
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.Login.resources
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.Narudzbe.resources
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.PregledRacuna.resources
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.Properties.Resources.resources
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.StavkeRacuna.resources
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.csproj.GenerateResource.Cache
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET - Copy\Restoran.NET\Restoran.NET\bin\Debug\Restoran.NET.exe.config
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET - Copy\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.exe
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET - Copy\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.pdb
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET - Copy\Restoran.NET\Restoran.NET\bin\Debug\Restoran.NET.exe
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET - Copy\Restoran.NET\Restoran.NET\bin\Debug\Restoran.NET.pdb
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET - Copy\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.csprojResolveAssemblyReference.cache
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET - Copy\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.frmArtikli.resources
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET - Copy\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.frmDodavanjeArtikla.resources
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET - Copy\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.GlavnaForma.resources
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET - Copy\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.GlavniDioRacuna.resources
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET - Copy\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.Login.resources
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET - Copy\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.Narudzbe.resources
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET - Copy\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.PregledRacuna.resources
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET - Copy\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.Properties.Resources.resources
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET - Copy\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.StavkeRacuna.resources
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET - Copy\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.csproj.GenerateResource.Cache
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET - Copy\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.frmDodavanjeZaposlenika.resources
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET - Copy\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.frmZaposlenici.resources
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET - Copy\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.frmDodavanjeJediniceMjere.resources
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET - Copy\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.frmJedinice_mjere.resources
+I:\Restoran.NET - Copy\Restoran.NET\Restoran.NET\bin\Debug\Restoran.NET.exe.config
+I:\Restoran.NET - Copy\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.exe
+I:\Restoran.NET - Copy\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.pdb
+C:\Users\Kokotec\Desktop\Restoran.NET - Copy\Restoran.NET\Restoran.NET\bin\Debug\Restoran.NET.exe.config
+C:\Users\Kokotec\Desktop\Restoran.NET - Copy\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.exe
+C:\Users\Kokotec\Desktop\Restoran.NET - Copy\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.pdb
+C:\Users\Kokotec\Desktop\Restoran.NET - Copy\Restoran.NET\Restoran.NET\bin\Debug\Restoran.NET.exe
+C:\Users\Kokotec\Desktop\Restoran.NET - Copy\Restoran.NET\Restoran.NET\bin\Debug\Restoran.NET.pdb
+C:\Users\Kokotec\Desktop\Restoran.NET - Copy\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.csprojResolveAssemblyReference.cache
+C:\Users\Kokotec\Desktop\Restoran.NET - Copy\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.frmArtikli.resources
+C:\Users\Kokotec\Desktop\Restoran.NET - Copy\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.frmDodavanjeArtikla.resources
+C:\Users\Kokotec\Desktop\Restoran.NET - Copy\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.frmDodavanjeJediniceMjere.resources
+C:\Users\Kokotec\Desktop\Restoran.NET - Copy\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.frmDodavanjeZaposlenika.resources
+C:\Users\Kokotec\Desktop\Restoran.NET - Copy\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.GlavnaForma.resources
+C:\Users\Kokotec\Desktop\Restoran.NET - Copy\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.GlavniDioRacuna.resources
+C:\Users\Kokotec\Desktop\Restoran.NET - Copy\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.frmJedinice_mjere.resources
+C:\Users\Kokotec\Desktop\Restoran.NET - Copy\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.Login.resources
+C:\Users\Kokotec\Desktop\Restoran.NET - Copy\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.Narudzbe.resources
+C:\Users\Kokotec\Desktop\Restoran.NET - Copy\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.PregledRacuna.resources
+C:\Users\Kokotec\Desktop\Restoran.NET - Copy\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.Properties.Resources.resources
+C:\Users\Kokotec\Desktop\Restoran.NET - Copy\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.StavkeRacuna.resources
+C:\Users\Kokotec\Desktop\Restoran.NET - Copy\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.frmZaposlenici.resources
+C:\Users\Kokotec\Desktop\Restoran.NET - Copy\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.csproj.GenerateResource.Cache
+D:\Desktop\Restoran.NET - Final\Restoran.NET - Copy\Restoran.NET\Restoran.NET\bin\Debug\Restoran.NET.exe.config
+D:\Desktop\Restoran.NET - Final\Restoran.NET - Copy\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.exe
+D:\Desktop\Restoran.NET - Final\Restoran.NET - Copy\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.pdb
+D:\Desktop\Restoran.NET - Final\Restoran.NET - Copy\Restoran.NET\Restoran.NET\bin\Debug\Restoran.NET.exe
+D:\Desktop\Restoran.NET - Final\Restoran.NET - Copy\Restoran.NET\Restoran.NET\bin\Debug\Restoran.NET.pdb
+D:\Desktop\Restoran.NET - Final\Restoran.NET - Copy\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.csprojResolveAssemblyReference.cache
+D:\Desktop\Restoran.NET - Final\Restoran.NET - Copy\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.frmArtikli.resources
+D:\Desktop\Restoran.NET - Final\Restoran.NET - Copy\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.frmDodavanjeArtikla.resources
+D:\Desktop\Restoran.NET - Final\Restoran.NET - Copy\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.frmDodavanjeJediniceMjere.resources
+D:\Desktop\Restoran.NET - Final\Restoran.NET - Copy\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.frmDodavanjeZaposlenika.resources
+D:\Desktop\Restoran.NET - Final\Restoran.NET - Copy\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.GlavnaForma.resources
+D:\Desktop\Restoran.NET - Final\Restoran.NET - Copy\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.GlavniDioRacuna.resources
+D:\Desktop\Restoran.NET - Final\Restoran.NET - Copy\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.frmJedinice_mjere.resources
+D:\Desktop\Restoran.NET - Final\Restoran.NET - Copy\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.Login.resources
+D:\Desktop\Restoran.NET - Final\Restoran.NET - Copy\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.Narudzbe.resources
+D:\Desktop\Restoran.NET - Final\Restoran.NET - Copy\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.PregledRacuna.resources
+D:\Desktop\Restoran.NET - Final\Restoran.NET - Copy\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.Properties.Resources.resources
+D:\Desktop\Restoran.NET - Final\Restoran.NET - Copy\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.StavkeRacuna.resources
+D:\Desktop\Restoran.NET - Final\Restoran.NET - Copy\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.frmZaposlenici.resources
+D:\Desktop\Restoran.NET - Final\Restoran.NET - Copy\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.csproj.GenerateResource.Cache
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET - Final\Restoran.NET\Restoran.NET\bin\Debug\Restoran.NET.exe.config
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET - Final\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.exe
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET - Final\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.pdb
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET - Final\Restoran.NET\Restoran.NET\bin\Debug\Restoran.NET.exe
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET - Final\Restoran.NET\Restoran.NET\bin\Debug\Restoran.NET.pdb
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET - Final\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.csprojResolveAssemblyReference.cache
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET - Final\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.frmArtikli.resources
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET - Final\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.frmDodavanjeArtikla.resources
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET - Final\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.frmDodavanjeJediniceMjere.resources
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET - Final\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.frmDodavanjeZaposlenika.resources
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET - Final\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.GlavnaForma.resources
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET - Final\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.GlavniDioRacuna.resources
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET - Final\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.frmJedinice_mjere.resources
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET - Final\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.Login.resources
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET - Final\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.Narudzbe.resources
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET - Final\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.PregledRacuna.resources
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET - Final\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.Properties.Resources.resources
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET - Final\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.StavkeRacuna.resources
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET - Final\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.frmZaposlenici.resources
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET - Final\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.csproj.GenerateResource.Cache
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET - Final\Restoran.NET\Restoran.NET\bin\Debug\Restoran.NET.exe.manifest
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET - Final\Restoran.NET\Restoran.NET\bin\Debug\Restoran.NET.application
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET - Final\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.exe.manifest
+D:\SkyDrive\Documents\Programsko inženjerstvo\Projekt\Restoran.NET - Final\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.application
+D:\Documents\GitHub\RepositoryTeam11\Projekt\Restoran.NET - Final\Restoran.NET\Restoran.NET\bin\Debug\Restoran.NET.exe.config
+D:\Documents\GitHub\RepositoryTeam11\Projekt\Restoran.NET - Final\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.exe
+D:\Documents\GitHub\RepositoryTeam11\Projekt\Restoran.NET - Final\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.pdb
+D:\Documents\GitHub\RepositoryTeam11\Projekt\Restoran.NET - Final\Restoran.NET\Restoran.NET\bin\Debug\Restoran.NET.exe.manifest
+D:\Documents\GitHub\RepositoryTeam11\Projekt\Restoran.NET - Final\Restoran.NET\Restoran.NET\bin\Debug\Restoran.NET.application
+D:\Documents\GitHub\RepositoryTeam11\Projekt\Restoran.NET - Final\Restoran.NET\Restoran.NET\bin\Debug\Restoran.NET.exe
+D:\Documents\GitHub\RepositoryTeam11\Projekt\Restoran.NET - Final\Restoran.NET\Restoran.NET\bin\Debug\Restoran.NET.pdb
+D:\Documents\GitHub\RepositoryTeam11\Projekt\Restoran.NET - Final\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.csprojResolveAssemblyReference.cache
+D:\Documents\GitHub\RepositoryTeam11\Projekt\Restoran.NET - Final\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.frmArtikli.resources
+D:\Documents\GitHub\RepositoryTeam11\Projekt\Restoran.NET - Final\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.frmDodavanjeArtikla.resources
+D:\Documents\GitHub\RepositoryTeam11\Projekt\Restoran.NET - Final\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.frmDodavanjeJediniceMjere.resources
+D:\Documents\GitHub\RepositoryTeam11\Projekt\Restoran.NET - Final\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.frmDodavanjeZaposlenika.resources
+D:\Documents\GitHub\RepositoryTeam11\Projekt\Restoran.NET - Final\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.GlavnaForma.resources
+D:\Documents\GitHub\RepositoryTeam11\Projekt\Restoran.NET - Final\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.GlavniDioRacuna.resources
+D:\Documents\GitHub\RepositoryTeam11\Projekt\Restoran.NET - Final\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.frmJedinice_mjere.resources
+D:\Documents\GitHub\RepositoryTeam11\Projekt\Restoran.NET - Final\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.Login.resources
+D:\Documents\GitHub\RepositoryTeam11\Projekt\Restoran.NET - Final\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.Narudzbe.resources
+D:\Documents\GitHub\RepositoryTeam11\Projekt\Restoran.NET - Final\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.PregledRacuna.resources
+D:\Documents\GitHub\RepositoryTeam11\Projekt\Restoran.NET - Final\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.Properties.Resources.resources
+D:\Documents\GitHub\RepositoryTeam11\Projekt\Restoran.NET - Final\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.StavkeRacuna.resources
+D:\Documents\GitHub\RepositoryTeam11\Projekt\Restoran.NET - Final\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.frmZaposlenici.resources
+D:\Documents\GitHub\RepositoryTeam11\Projekt\Restoran.NET - Final\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.csproj.GenerateResource.Cache
+D:\Documents\GitHub\RepositoryTeam11\Projekt\Restoran.NET - Final\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.exe.manifest
+D:\Documents\GitHub\RepositoryTeam11\Projekt\Restoran.NET - Final\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.application
