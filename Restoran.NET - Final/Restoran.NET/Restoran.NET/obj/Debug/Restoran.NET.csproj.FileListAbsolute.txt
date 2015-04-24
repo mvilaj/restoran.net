@@ -225,3 +225,6 @@ D:\Documents\GitHub\RepositoryTeam11\Projekt\Restoran.NET - Final\Restoran.NET\R
 D:\Documents\GitHub\RepositoryTeam11\Projekt\Restoran.NET - Final\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.csproj.GenerateResource.Cache
 D:\Documents\GitHub\RepositoryTeam11\Projekt\Restoran.NET - Final\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.exe.manifest
 D:\Documents\GitHub\RepositoryTeam11\Projekt\Restoran.NET - Final\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.application
+D:\Documents\GitHub\restoran.net\Restoran.NET - Final\Restoran.NET\Restoran.NET\bin\Debug\Restoran.NET.exe.config
+D:\Documents\GitHub\restoran.net\Restoran.NET - Final\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.exe
+D:\Documents\GitHub\restoran.net\Restoran.NET - Final\Restoran.NET\Restoran.NET\obj\Debug\Restoran.NET.pdb
